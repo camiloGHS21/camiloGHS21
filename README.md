@@ -19,11 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@camilogh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@camilogh21" height="30" width="40" /></a>
-<a href="https://twitter.com/@camilogh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@camilogh21" height="30" width="40" /></a>
-<a href="https://fb.com/@camilogh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@camilogh21" height="30" width="40" /></a>
-<a href="https://instagram.com/@camilogh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@camilogh21" height="30" width="40" /></a>
-<a href="https://discord.gg/@camilogh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@camilogh21" height="30" width="40" /></a>
+<a href="https://codepen.io/camiloghs21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@camilogh21" height="30" width="40" /></a>
+<a href="https://twitter.com/camiloghs21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@camilogh21" height="30" width="40" /></a>
+<a href="https://fb.com/camilo.grajales.ghs21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@camilogh21" height="30" width="40" /></a>
+<a href="https://discord.gg/camilogh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@camilogh21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
