@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilogh21&label=Profile%20views&color=0e75b6&style=flat" alt="camilogh21" /> </p>
 
-- 🔭 I’m currently working on [cacharrito](https://github.com/camiloGHS21/cacharrito_base_datos)
-
-- 🌱 I’m currently learning **spring boot and angularjs**
-
-- 🤝 I’m looking for help with [cachorrito](https://github.com/camiloGHS21/cacharrito_base_datos)
 
 - 👨‍💻 All of my projects are available at [https://github.com/camiloGHS21/](https://github.com/camiloGHS21/)
 
