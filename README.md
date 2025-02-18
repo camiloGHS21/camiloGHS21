@@ -55,7 +55,7 @@
   <a href="https://stackoverflow.com/users/29699939/camilo-grajales" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
   </a>
-/*
+<!--
   <a href="https://instagram.com/nicolas_hoyoss" target="_blank">
     <img src="https://img.icons8.com/color/40/instagram-new.png">
   </a>
@@ -63,7 +63,7 @@
   <a href="https://x.com/grajales_hoyos" target="_blank">
     <img src="https://img.icons8.com/doodle/40/twitter-squared--v2.png">
   </a>
-  */
+  -->
   <a href="https://www.youtube.com/@Camilo-Dev" target="_blank">
     <img src="https://img.icons8.com/doodle/40/youtube--v2.png">
   </a>
